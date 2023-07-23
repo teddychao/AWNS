@@ -1,2 +1,2 @@
-# WvNS
-Wavelet noise suppression package for proton magnetic resonance spectroscopy
+# Adaptive Wavelet Noise Suppression
+Adaptive Wavelet Noise Suppression (AWNS) algorithm for proton magnetic resonance spectroscopy.
